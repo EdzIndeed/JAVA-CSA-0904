@@ -1,7 +1,7 @@
 # Object-Oriented Programming in Java – Assignments Repository
 
-**Student / GitHub User:** [PRADEEPRAMM05](https://github.com/PRADEEPRAMM05)  
-**Repository:** [JAVA](https://github.com/PRADEEPRAMM05/JAVA)  
+**Student / GitHub User:** [EdzIndeed](https://github.com/EdzIndeed)  
+**Repository:** [JAVA-CSA-0904](https://github.com/EdzIndeed/JAVA-CSA-0904)  
 **Environment:** Java (OpenJDK 21 / 26)  
 **Build & Execution:** Standalone `javac` and `java` (no external runtime dependencies required)
 
